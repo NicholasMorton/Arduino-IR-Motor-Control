@@ -1,9 +1,9 @@
 
-
-/*Code belongs to this video https://www.youtube.com/watch?v=wqZwQnh6ZtQ
+/**** IR remote related code modified from the source below ****/ 
+/*
+  Code belongs to this video https://www.youtube.com/watch?v=wqZwQnh6ZtQ
   writen by Moz for YouTube changel logmaker360.
   13-04-2016
-
   code works on a car mp3 remote controller
 */
 
