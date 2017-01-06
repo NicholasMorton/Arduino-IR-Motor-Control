@@ -21,7 +21,7 @@ int in2Pin = 9;
 // motor direction
 boolean reverse;
 int speed;
-int SPEED = 200;
+int SPEED = 250;
 
 
 
